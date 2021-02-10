@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passaword</string>
+    <string name="action_log_in">Log in</string>
+    <string name="error_user">Usuario Incorrecto</string>
+    <string name="error_password">Contraseña Incorrecta</string>
+    <string name="action_myCollaborators">MIS COLABORADORES</string>
+    <string name="action_addCollaborators">AGREGAR COLABORADOR</string>
+    <string name="action_Exit">SALIR</string>
+</resources>
